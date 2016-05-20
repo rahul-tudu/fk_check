@@ -10,7 +10,7 @@ import static org.mockito.Mockito.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(4, 2 + 2);
+        assertEquals(6, 2 + 2);
     }
     @Test
     public void test1() throws Exception  {
